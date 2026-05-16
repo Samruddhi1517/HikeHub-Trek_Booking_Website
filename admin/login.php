@@ -303,7 +303,7 @@ Login to Dashboard
 </form>
 
 <div class="footer">
-HikeHub Admin System © 2026
+HikeHub Admin System © 2025
 </div>
 
 </div>
