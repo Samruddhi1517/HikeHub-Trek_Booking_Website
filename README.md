@@ -222,10 +222,8 @@ hikehub.infinityfreeapp.com
 
 ## 🚧 Future Improvements
 
-* Admin panel (Add/Edit/Delete treks)
 * Booking cancellation system
 * Email notifications
-* Advanced filters (difficulty, date, ratings)
 * API-based architecture (REST API)
 
 ---
