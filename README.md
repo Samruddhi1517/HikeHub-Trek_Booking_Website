@@ -291,12 +291,13 @@ http://localhost/hikehub/list.php
  ---
 
 **Edit Trek**
+
 <img width="1341" height="644" alt="13" src="https://github.com/user-attachments/assets/5d2c3034-554c-476d-af4d-70de5438c7fc" />
 
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
 ```text
 hikehub.infinityfreeapp.com
