@@ -64,28 +64,38 @@ The project includes a dynamic gallery manager for each trek.
 | Backend  | PHP (Core PHP)                  |
 | Database | MySQL                           |
 | Payments | Card, NetBanking,  UPI,  Wallet |
+| Local Development |  XAMPP |
 
 ---
 
 ## 📂 Project Structure
 
 ```
-/project-root
-│── list.php              # Trek listing page
-│── trek.php              # Trek details page
-│── book_form.php         # Booking form
-│── book_action.php       # Booking handler
-│── payment.php           # Razorpay payment page
-│── payment_success.php   # Payment success handler
-│── invoice.php           # Booking invoice
-│── dashboard.php         # User bookings History
-│── login.php             # User login
-│── register.php          # User registration
-│── logout.php            # Logout
-│── db.php                # Database connection
-│── header.php / footer.php
-│── styles.css            # Main styles
-│── /images               # Trek images
+HikeHub/
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── add_trek.php
+│   ├── edit_trek.php
+│   ├── delete_trek.php
+│   ├── set_cover.php
+│   ├── delete_image.php
+│   ├── update_order.php
+│   └── partials/
+│
+├── images/
+├── partials/
+├── css/
+├── js/
+│
+├── db.php
+├── index.php
+├── list.php
+├── detail.php
+├── login.php
+├── register.php
+├── dashboard.php
+└── logout.php
 ```
 
 ---
