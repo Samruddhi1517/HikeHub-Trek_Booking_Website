@@ -307,9 +307,14 @@ hikehub.infinityfreeapp.com
 
 ## 🚧 Future Improvements
 
-* Booking cancellation system
-* Email notifications
-* API-based architecture (REST API)
+- 💳 Payment gateway integration
+- ⭐ Trek reviews & ratings
+- ❤️ Wishlist system
+- 📧 Email notifications
+- 📊 Admin analytics dashboard
+- 🌍 Google Maps integration
+- 🤖 AI-based trek recommendations
+- ❌ Booking cancelation
 
 ---
 
