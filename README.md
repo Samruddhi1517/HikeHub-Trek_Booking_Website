@@ -288,10 +288,10 @@ http://localhost/hikehub/list.php
 
  <img width="1358" height="644" alt="12" src="https://github.com/user-attachments/assets/3e509737-2c1d-4f20-b537-d5af91a27293" />
 
+ ---
+
 **Edit Trek**
 <img width="1341" height="644" alt="13" src="https://github.com/user-attachments/assets/5d2c3034-554c-476d-af4d-70de5438c7fc" />
-
-
 
 
 ---
