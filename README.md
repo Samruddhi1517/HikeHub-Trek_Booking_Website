@@ -204,7 +204,7 @@ http://localhost/hikehub/list.php
 ## 📸 Screenshots 
 **Registration Page**
 
-<img width="1344" height="642" alt="1" src="https://github.com/user-attachments/assets/62ebfc90-5739-430a-9632-6ad400d049cd" />
+<img width="1343" height="645" alt="3" src="https://github.com/user-attachments/assets/20c14510-80ee-420a-b151-d0550fae08fc" />
 
 
 ---
@@ -212,7 +212,7 @@ http://localhost/hikehub/list.php
 
 **Login Page**
 
-<img width="1343" height="644" alt="2" src="https://github.com/user-attachments/assets/2256f59b-2208-4495-a711-29dc4f6699a2" />
+<img width="1345" height="644" alt="2" src="https://github.com/user-attachments/assets/9a3e6023-2b70-4d4c-aa09-62fa1891b2c0" />
 
 
 ---
@@ -220,15 +220,14 @@ http://localhost/hikehub/list.php
 
 **Trek List Page**
 
-<img width="1342" height="644" alt="3" src="https://github.com/user-attachments/assets/1565c51f-3109-437a-9cf0-458eac4bb9f6" />
-
+<img width="1339" height="644" alt="1" src="https://github.com/user-attachments/assets/42ea9c19-d5c5-4bf4-8f15-3859ea6476fc" />
 
 ---
 
 
 **Trek Description with Gallery**
 
-<img width="1342" height="644" alt="4" src="https://github.com/user-attachments/assets/6eab844d-6cf1-4ff1-8208-8ea883d97dc6" />
+<img width="1343" height="643" alt="4" src="https://github.com/user-attachments/assets/bed52ad0-7f9b-4632-9767-616c38b26b7d" />
 
 
 ---
@@ -236,7 +235,7 @@ http://localhost/hikehub/list.php
 
 **Trek Booking Page**
 
-<img width="1343" height="644" alt="5" src="https://github.com/user-attachments/assets/27112894-00f6-45ae-b409-0e298ce8af79" />
+<img width="1341" height="644" alt="5" src="https://github.com/user-attachments/assets/18168299-d94f-4220-bc7b-deb6343b0af0" />
 
 
 ---
@@ -244,7 +243,8 @@ http://localhost/hikehub/list.php
 
 **Payment Page**
 
-<img width="1341" height="644" alt="6" src="https://github.com/user-attachments/assets/497521b8-e768-4cbf-b96c-ba117fd0e9d1" />
+<img width="1349" height="644" alt="6" src="https://github.com/user-attachments/assets/d9105365-c72d-4acc-bfe3-e82fdd562f66" />
+
 
 
 ---
@@ -252,7 +252,7 @@ http://localhost/hikehub/list.php
 
 **Booking Confirmed Page**
 
-<img width="1351" height="644" alt="7" src="https://github.com/user-attachments/assets/50e6bbf4-f80b-4944-87dc-0f836b7b4b29" />
+<img width="1347" height="644" alt="7" src="https://github.com/user-attachments/assets/9e27b806-2956-432e-8604-76f4c0f58529" />
 
 
 ---
@@ -260,7 +260,7 @@ http://localhost/hikehub/list.php
 
 **Invoice Page**
 
-<img width="1347" height="644" alt="9" src="https://github.com/user-attachments/assets/3af36eae-54ae-4e6a-91c2-fdaba0224fc9" />
+<img width="1345" height="644" alt="8" src="https://github.com/user-attachments/assets/90044c74-768a-4fb3-bcef-ec68d7560014" />
 
 
 ---
@@ -268,7 +268,8 @@ http://localhost/hikehub/list.php
 
 **Booking History Page**
 
-<img width="1358" height="644" alt="8" src="https://github.com/user-attachments/assets/dfee03bf-e09c-450a-8258-0fc7c51e2f60" />
+<img width="1349" height="644" alt="9" src="https://github.com/user-attachments/assets/c37a7bc6-b98c-45bc-85f1-d520ea9a5c8d" />
+
  
 ---
 
