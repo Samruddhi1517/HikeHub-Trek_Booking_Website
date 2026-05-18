@@ -181,6 +181,16 @@ $DB_NAME='trek_site';
 ```
 http://localhost/hikehub/list.php
 ```
+---
+
+## 🎨 UI Highlights
+
+- Airbnb-inspired design
+- Modern responsive layout
+- Interactive hover animations
+- Drag & drop image upload
+- Responsive gallery manager
+- Soft blue theme UI
 
 ---
 
