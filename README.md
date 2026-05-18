@@ -2,17 +2,57 @@
 
 HikeHub is a full-stack web application that enables users to explore trekking destinations, book trips, and complete secure online payments. The platform is designed with a clean, responsive interface and includes booking management, payment integration, and invoice generation.
 
+The platform includes:
+- Trek listings
+- Booking system
+- User authentication
+- Multi-image trek galleries
+- Responsive admin dashboard
+- Drag & drop gallery management
+
 ---
 
 ## 🚀 Features
 
-* 🔍 Search & filter treks by location, price, and popularity
-* 🏔️ View detailed trek information with gallery
-* 💳 Different payment option
-* 📄 Auto-generated invoice for bookings
-* 👤 User authentication (Register / Login / Logout)
-* 📊 User dashboard to view booking History
-* 📱 Fully responsive UI
+### 👤 User Features
+
+- 🔍 Browse trekking adventures
+- 🏕️ View trek details
+- 🖼️ Trek image galleries
+- 🔐 User registration & login
+- 📖 Book trekking adventures
+- 📱 Fully responsive design
+- 🔎 Search & filter treks
+- 📌 Trek details with pricing, duration & difficulty
+
+
+
+### 🛠️ Admin Features
+
+- 🔑 Secure admin login
+- ➕ Add new treks
+- ✏️ Edit trek details
+- ❌ Delete treks
+- 🖼️ Multi-image gallery management
+- 📤 Drag & drop image upload
+- ⭐ Set cover image
+- 🗑️ Delete gallery images
+- 🔄 Drag & reorder gallery images
+- 📱 Responsive admin dashboard
+
+---
+
+## 🖼️ Gallery Management System
+
+The project includes a dynamic gallery manager for each trek.
+
+### Features:
+- Multiple image uploads
+- Drag & drop uploader
+- Cover image selection
+- Gallery reordering
+- Responsive image cards
+- Real-time gallery updates
 
 ---
 
