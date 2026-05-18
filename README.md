@@ -270,7 +270,30 @@ http://localhost/hikehub/list.php
 
 <img width="1349" height="644" alt="9" src="https://github.com/user-attachments/assets/c37a7bc6-b98c-45bc-85f1-d520ea9a5c8d" />
 
+ ---
  
+ **Admin Login**
+
+ <img width="1346" height="644" alt="10" src="https://github.com/user-attachments/assets/eb69e6f4-9eb5-4e01-a2bb-48e8e88b55e8" />
+
+ ---
+ 
+ **Admin Panel**
+ 
+ <img width="1342" height="644" alt="11" src="https://github.com/user-attachments/assets/4a02785c-26e7-4159-a16c-1e0ffdc2dffc" />
+
+ ---
+
+ **Add New Trek**
+
+ <img width="1358" height="644" alt="12" src="https://github.com/user-attachments/assets/3e509737-2c1d-4f20-b537-d5af91a27293" />
+
+**Edit Trek**
+<img width="1341" height="644" alt="13" src="https://github.com/user-attachments/assets/5d2c3034-554c-476d-af4d-70de5438c7fc" />
+
+
+
+
 ---
 
 # 🌐 Live Demo
